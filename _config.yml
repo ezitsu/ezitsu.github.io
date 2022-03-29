@@ -23,7 +23,7 @@ timezone: Asia/Shanghai
 
 title: ezitsu                          # the main title
 
-tagline: about daily dev life   # it will display as the sub-title
+tagline: I do not think therefore I do not am.   # it will display as the sub-title
 
 description: >-                        # used by seo meta and the atom feed
   A minimal, responsive, and powerful Jekyll theme for presenting professional writing.
