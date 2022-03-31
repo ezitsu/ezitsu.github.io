@@ -32,7 +32,7 @@ description: >-                        # used by seo meta and the atom feed
 url: 'https://ezitsu.github.io'
 
 github:
-  username: ezitsu@gmail.com             # change to your github username
+  username: ezitsu             # change to your github username
 
 twitter:
   username: twitter_username            # change to your twitter username
