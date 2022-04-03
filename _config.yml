@@ -163,7 +163,7 @@ defaults:
       swcache: true
   - scope:
       path: assets/js/dist
-    values:
+    values: 
       swcache: true
 
 sass:
